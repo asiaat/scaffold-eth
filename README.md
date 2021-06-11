@@ -1,4 +1,4 @@
-# 🏗 scaffold-eth - 🎫 Buyer Mints NFT
+# 🏗 scaffold-eth - 🎫 Buyer Mints NFT (Esotric NFT)
 
 > (Counterfactual NFT minting example...)
 
